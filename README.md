@@ -7,7 +7,7 @@ This is my Profile.
 Follow me ON : 
 - Instagram : @afdulanwaradani
 - Facebook : @afdul12
-- Twitter : @afdulanwaradan1
+- Twitter : @afdulanwaradani
 
 <!---
 afdulanwaradani/afdulanwaradani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
