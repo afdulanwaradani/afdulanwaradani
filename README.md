@@ -57,6 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Penyebab Google Search Console: Ditemukan - saat ini tidak diindeks](https://www.dani31.eu.org/2021/09/penyebab-google-search-console.html)
+- [VPN Remote Mikrotik Gratis dari VPNKisanak Bot](https://www.dani31.eu.org/2021/09/vpn-remote-mikrotik-gratis.html)
+- [Fix Situs Anda Belum Siap Untuk Menampilkan Iklan pada Blogger](https://www.dani31.eu.org/2021/08/fix-situs-anda-belum-siap-untuk.html)
+- [Kumpulan MAC Address Wifi ID Terbaru Work | 20 MAC Gratis Update](https://www.dani31.eu.org/2021/08/kumpulan-mac-address-wifi-id-terbaru.html)
+- [Merangking Keyword Turunan Untuk Menaikkan Visitor](https://www.dani31.eu.org/2021/08/merangking-keyword-turunan.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org)
