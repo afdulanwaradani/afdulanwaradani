@@ -77,7 +77,7 @@
 </details>
 
 [website]: https://www.dani31.eu.org
-[websitegit]: https://afdulanwaradani/github.io
+[websitegit]: https://afdulanwaradani.github.io
 [twitter]: https://twitter.com/afdulanwaradani
 [youtube]: https://www.youtube.com/channel/UCv8_S6h1sVAX310dEqRpEXQ
 [instagram]: https://instagram.com/afdulanwaradani
