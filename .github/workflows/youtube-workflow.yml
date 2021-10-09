@@ -1,4 +1,4 @@
-name: Latest Youtube workflow
+name: Latest Youtube Videos
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
