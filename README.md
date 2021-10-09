@@ -1,4 +1,4 @@
-### HI, SAYA Dani - dari [afdulanwaradani][website] 👋
+### HI, Saya Dani - dari [afdulanwaradani][website] 👋
 
 [![Website](https://img.shields.io/website?label=dani31.eu.org&style=for-the-badge&url=https%3A%2F%2Fdani31.eu.org)](https://www.dani31.eu.org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/afdulanwaradani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fafdulanwaradani&screen_name=afdulanwaradani)
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Flutter & Laravel.
 - 📫 How to reach me in my social media.
 
-### Hubungui saya di:
+### Hubungui Saya di:
 
 [<img align="left" alt="dani31.eu.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="dani31.eu.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitegit]
@@ -33,7 +33,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 YouTube Videos Terbaru
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
