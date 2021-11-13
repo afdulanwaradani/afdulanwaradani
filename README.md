@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Tools Yang Wajib Untuk Youtuber](https://www.dani31.eu.org/2021/11/tools-yang-wajib-untuk-youtuber.html)
 - [Pengenalan Perangkat MikroTik Routerboard](https://www.dani31.eu.org/2021/11/pengenalan-perangkat-mikrotik.html)
 - [Cara menghemat umur SSD 2021 - Terbukti ampuh](https://www.dani31.eu.org/2021/11/cara-menghemat-umur-ssd-2021.html)
 - [Hosting Gratis dari Hostry](https://www.dani31.eu.org/2021/10/hosting-gratis-dari-hostry.html)
 - [Penyebab Google Search Console: Ditemukan - saat ini tidak diindeks](https://www.dani31.eu.org/2021/09/penyebab-google-search-console.html)
-- [VPN Remote Mikrotik Gratis dari VPNKisanak Bot](https://www.dani31.eu.org/2021/09/vpn-remote-mikrotik-gratis.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org)
