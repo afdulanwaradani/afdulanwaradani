@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara setting ping 0 ms pada MikroTik](https://www.dani31.eu.org/2021/12/cara-setting-ping-0-ms-pada-mikrotik.html)
 - [Tips mengamankan laptop dari serangan berbahaya](https://www.dani31.eu.org/2021/11/tips-mengamankan-laptop-dari-serangan.html)
 - [Free cdnjs untuk blogger](https://www.dani31.eu.org/2021/11/free-cdnjs-untuk-blogger.html)
 - [Cara membuat tag meta deskripsi dengan benar](https://www.dani31.eu.org/2021/11/cara-membuat-tag-meta-deskripsi-dengan.html)
 - [4 Tools Yang Wajib Untuk Youtuber](https://www.dani31.eu.org/2021/11/tools-yang-wajib-untuk-youtuber.html)
-- [Pengenalan Perangkat MikroTik Routerboard](https://www.dani31.eu.org/2021/11/pengenalan-perangkat-mikrotik.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org)
