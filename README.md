@@ -13,7 +13,7 @@
 ### Hubungui Saya di:
 
 [<img align="left" alt="dani31.eu.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dani31.eu.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog-git]
+[<img align="left" alt="dani31.eu.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Git_blog]
 [<img align="left" alt="afdulanwaradani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="afdulanwaradani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="afdulanwaradani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -76,7 +76,7 @@
 </details>
 
 [website]: https://www.dani31.eu.org
-[Git blog]: https://afdulanwaradani.github.io
+[Git_blog]: https://afdulanwaradani.github.io
 [twitter]: https://twitter.com/afdulanwaradani
 [youtube]: https://www.youtube.com/channel/UCv8_S6h1sVAX310dEqRpEXQ
 [instagram]: https://instagram.com/afdulanwaradani
