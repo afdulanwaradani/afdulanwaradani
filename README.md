@@ -45,10 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara mendapatkan domain eu.org gratis](https://afdulanwaradani.github.io/domain-gratis-eu-org.html)
-- [Sistem informasi Covi19](https://afdulanwaradani.github.io/info-covid19-indonesia-terbaru.html)
-- [cara mendapatkan domain github.io](https://afdulanwaradani.github.io/post.html)
-
+- [Tips mengamankan Router Mikrotik ampuh](https://www.dani31.eu.org/2022/01/tips-mengamankan-router-mikrotik-ampuh.html)
+- [Mengatasi limit 1text online plagiarism &lpar;One Text&rpar;](https://www.dani31.eu.org/2022/01/mengatasi-limit-1text-online-plagiarism.html)
+- [Hashtag Trending Di Twitter Update Setiap Hari](https://www.dani31.eu.org/2021/12/hashtag-trending-di-twitter-update.html)
+- [Cara setting ping 0 ms pada MikroTik](https://www.dani31.eu.org/2021/12/cara-setting-ping-0-ms-pada-mikrotik.html)
+- [Tips mengamankan laptop dari serangan berbahaya](https://www.dani31.eu.org/2021/11/tips-mengamankan-laptop-dari-serangan.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
