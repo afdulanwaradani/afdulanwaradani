@@ -1,6 +1,6 @@
 ### HI, Saya Dani - dari [afdulanwaradani][website] 👋
 
-[![Website](https://img.shields.io/website?label=dani31.eu.org&style=for-the-badge&url=https%3A%2F%2Fdani31.eu.org)](https://www.dani31.eu.org/)
+[![Website](https://img.shields.io/website?label=afdulblog&style=for-the-badge&url=https%3A%2F%2Fdani31.eu.org)](https://afdulanwaradani.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/afdulanwaradani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fafdulanwaradani&screen_name=afdulanwaradani)
 
 ## Mahasiswa, Pelajar, Blogger, and Gamer!!
@@ -13,7 +13,7 @@
 ### Hubungui Saya di:
 
 [<img align="left" alt="dani31.eu.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dani31.eu.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][websitegit]
+[<img align="left" alt="dani31.eu.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog git]
 [<img align="left" alt="afdulanwaradani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="afdulanwaradani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="afdulanwaradani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -45,14 +45,13 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips mengamankan Router Mikrotik ampuh](https://www.dani31.eu.org/2022/01/tips-mengamankan-router-mikrotik-ampuh.html)
-- [Mengatasi limit 1text online plagiarism &lpar;One Text&rpar;](https://www.dani31.eu.org/2022/01/mengatasi-limit-1text-online-plagiarism.html)
-- [Hashtag Trending Di Twitter Update Setiap Hari](https://www.dani31.eu.org/2021/12/hashtag-trending-di-twitter-update.html)
-- [Cara setting ping 0 ms pada MikroTik](https://www.dani31.eu.org/2021/12/cara-setting-ping-0-ms-pada-mikrotik.html)
-- [Tips mengamankan laptop dari serangan berbahaya](https://www.dani31.eu.org/2021/11/tips-mengamankan-laptop-dari-serangan.html)
+- [Cara mendapatkan domain eu.org gratis](https://afdulanwaradani.github.io/domain-gratis-eu-org.html)
+- [Sistem informasi Covi19](https://afdulanwaradani.github.io/info-covid19-indonesia-terbaru.html)
+- [cara mendapatkan domain github.io](https://afdulanwaradani.github.io/post.html)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.dani31.eu.org)
+➡️ [more blog posts...](https://www.dani31.eu.org/)
 
 ---
 
@@ -77,7 +76,7 @@
 </details>
 
 [website]: https://www.dani31.eu.org
-[websitegit]: https://afdulanwaradani.github.io
+[Git blog]: https://afdulanwaradani.github.io
 [twitter]: https://twitter.com/afdulanwaradani
 [youtube]: https://www.youtube.com/channel/UCv8_S6h1sVAX310dEqRpEXQ
 [instagram]: https://instagram.com/afdulanwaradani
@@ -86,3 +85,4 @@
 [raspberrypi]: https://www.youtube.com/playlist?list=PLrmDjdy0UD04nlrZHT_2HcN3fG1eGNOcI
 [mikrotik]: https://www.youtube.com/playlist?list=PLrmDjdy0UD07JH-rvt8mNLGph0SAjMvN9
 [blogtips]: https://www.youtube.com/playlist?list=PLrmDjdy0UD05mU7dEqCtfyLSqhyYvJnHO
+[gaming]: https://www.youtube.com/playlist?list=PLrmDjdy0UD07Ptk0lyY_jOqhNemYzHiXV
