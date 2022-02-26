@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apa Itu Domain Rating &lpar;DR&rpar;?](https://www.dani31.eu.org/2022/02/apa-itu-domain-rating.html)
 - [Backlink Berkualitas Dengan Rating Tinggi](https://www.dani31.eu.org/2022/02/backlink-berkualitas-dengan-rating.html)
 - [Cara Download Twitter Video Terbaru](https://www.dani31.eu.org/2022/02/cara-download-twitter-video-terbaru.html)
 - [Keyword Tools Gratis Terbaik 2022](https://www.dani31.eu.org/2022/02/keyword-tools-gratis-terbaik-2022.html)
 - [Free DNS Untuk Domain Terbaik](https://www.dani31.eu.org/2022/02/free-dns-untuk-domain-terbaik.html)
-- [Best Blogger Template for Adsense Approval - Fletro Pro Premium](https://www.dani31.eu.org/2022/02/best-blogger-template-for-adsense.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
