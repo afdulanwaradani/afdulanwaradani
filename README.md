@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips Mengurangi FUP Indihome](https://www.dani31.eu.org/2022/03/tips-mengurangi-fup-indihome-tahun-2021.html)
 - [Apa Itu URL Rating &lpar;UR&rpar;?](https://www.dani31.eu.org/2022/03/apa-itu-url-rating-ur.html)
 - [Apa Itu Domain Rating &lpar;DR&rpar;?](https://www.dani31.eu.org/2022/02/apa-itu-domain-rating.html)
 - [Backlink Berkualitas Dengan Rating Tinggi](https://www.dani31.eu.org/2022/02/backlink-berkualitas-dengan-rating.html)
 - [Cara Download Twitter Video Terbaru](https://www.dani31.eu.org/2022/02/cara-download-twitter-video-terbaru.html)
-- [Keyword Tools Gratis Terbaik 2022](https://www.dani31.eu.org/2022/02/keyword-tools-gratis-terbaik-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
