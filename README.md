@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mikrotik change DNS](https://www.dani31.eu.org/2022/03/mikrotik-change-dns.html)
+- [Penyedia Web Hosting Gratis PHP ID 2021](https://www.dani31.eu.org/2021/04/penyedia-web-hosting-gratis-php-id-2021.html)
 - [Fiksioner - Free Blogger Theme](https://www.dani31.eu.org/2021/04/fiksioner-free-blogger-theme.html)
 - [Backlink Twitch TV Domain Authority 93](https://www.dani31.eu.org/2021/05/backlink-twitch-tv-domain-authority-93.html)
 - [Tips Mengurangi FUP Indihome](https://www.dani31.eu.org/2022/03/tips-mengurangi-fup-indihome-tahun-2021.html)
-- [Apa Itu URL Rating &lpar;UR&rpar;?](https://www.dani31.eu.org/2022/03/apa-itu-url-rating-ur.html)
-- [Apa Itu Domain Rating &lpar;DR&rpar;?](https://www.dani31.eu.org/2022/02/apa-itu-domain-rating.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
