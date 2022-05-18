@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara memunculkan User Online Hotspot Mikrotik](https://www.dani31.eu.org/2022/05/cara-memunculkan-user-online-hotspot.html)
 - [Backlink Profile Free Blogspot](https://www.dani31.eu.org/2022/05/backlink-profile-free-blogspot.html)
 - [Template Untuk Blogger Terbaik Valid AMP](https://www.dani31.eu.org/2022/04/template-untuk-blogger-terbaik-valid-amp.html)
 - [Mikrotik change DNS](https://www.dani31.eu.org/2022/03/mikrotik-change-dns.html)
 - [Penyedia Web Hosting Gratis PHP ID 2021](https://www.dani31.eu.org/2021/04/penyedia-web-hosting-gratis-php-id-2021.html)
-- [Fiksioner - Free Blogger Theme](https://www.dani31.eu.org/2021/04/fiksioner-free-blogger-theme.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
