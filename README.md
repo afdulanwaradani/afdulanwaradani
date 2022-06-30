@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips Auto Impression Aman Menghindari Invalid Klik](https://www.dani31.eu.org/2022/06/tips-auto-impression-aman-menghindari.html)
+- [Blokir Iklan di MikroTik RouterOS Mudah](https://www.dani31.eu.org/2022/06/blokir-iklan-di-mikrotik-routeros.html)
 - [Cara Daftar Backlink Dofollow Berkualitas](https://www.dani31.eu.org/2022/06/cara-daftar-backlink-dofollow.html)
 - [Kumpulan Template Mikrotik Hotspot Login Responsive 2021](https://www.dani31.eu.org/2022/06/kumpulan-template-mikrotik-hotspot.html)
 - [Cara Cepat dan Mudah Diterima MGID](https://www.dani31.eu.org/2022/06/cara-cepat-dan-mudah-diterima-mgid.html)
-- [Konfigurasi By U Unlimited Jadi Tanpa Batas Kecepatan](https://www.dani31.eu.org/2022/05/konfigurasi-by-u-unlimited-jadi-tanpa.html)
-- [Cara Setting Modem Sierra 320u di Mikrotik](https://www.dani31.eu.org/2022/05/cara-setting-modem-sierra-320u-di.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
