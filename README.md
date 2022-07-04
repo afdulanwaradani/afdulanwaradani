@@ -1,6 +1,6 @@
 ### HI, Saya Dani - dari [afdulanwaradani][website] 👋
 
-[![Website](https://img.shields.io/website?label=afdulblog&style=for-the-badge&url=https%3A%2F%2Fdani31.eu.org)](https://afdulanwaradani.github.io)
+[![Website](https://img.shields.io/website?label=Berbagi Itu Indah&style=for-the-badge&url=https%3A%2F%2Fdani31.eu.org)](https://afdulanwaradani.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/afdulanwaradani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fafdulanwaradani&screen_name=afdulanwaradani)
 
 ## Mahasiswa, Pelajar, Blogger, and Gamer!!
