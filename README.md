@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Setting Huawei B310s 927 Unlock](https://www.dani31.eu.org/2022/07/cara-setting-huawei-b310s-927-unlock.html)
 - [5 Tips Termudah Agar Diterima Google AdSense](https://www.dani31.eu.org/2022/07/5-tips-termudah-agar-diterima-google.html)
 - [Cara seting interface mikrotik auto restart menggunakan script](https://www.dani31.eu.org/2022/07/cara-seting-interface-mikrotik-auto-restart.html)
 - [Tips Auto Impression Aman Menghindari Invalid Klik](https://www.dani31.eu.org/2022/06/tips-auto-impression-aman-menghindari.html)
 - [Blokir Iklan di MikroTik RouterOS Mudah](https://www.dani31.eu.org/2022/06/blokir-iklan-di-mikrotik-routeros.html)
-- [Cara Daftar Backlink Dofollow Berkualitas](https://www.dani31.eu.org/2022/06/cara-daftar-backlink-dofollow.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
