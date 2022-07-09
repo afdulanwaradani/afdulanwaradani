@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips dan Trik SEO Pemula Untuk Blogger](https://www.dani31.eu.org/2022/07/tips-dan-trik-seo-pemula-untuk-blogger.html)
 - [Cara Menghilangkan Notif Sellers.json Google Adsense | Work ampuh 100%](https://www.dani31.eu.org/2022/07/cara-menghilangkan-notif-sellersjson.html)
 - [Cara Melihat ID Telkom Modem HUAWEI](https://www.dani31.eu.org/2022/07/cara-melihat-id-telkom-modem-huawei.html)
 - [Cara Mudah Meningkatkan Trafik Blog](https://www.dani31.eu.org/2022/07/cara-mudah-meningkatkan-trafik-blog.html)
 - [Cara Setting Huawei B310s 927 Unlock](https://www.dani31.eu.org/2022/07/cara-setting-huawei-b310s-927-unlock.html)
-- [5 Tips Termudah Agar Diterima Google AdSense](https://www.dani31.eu.org/2022/07/5-tips-termudah-agar-diterima-google.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
