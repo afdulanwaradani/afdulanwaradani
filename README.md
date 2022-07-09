@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Melihat ID Telkom Modem HUAWEI](https://www.dani31.eu.org/2022/07/cara-melihat-id-telkom-modem-huawei.html)
 - [Cara Mudah Meningkatkan Trafik Blog](https://www.dani31.eu.org/2022/07/cara-mudah-meningkatkan-trafik-blog.html)
 - [Cara Setting Huawei B310s 927 Unlock](https://www.dani31.eu.org/2022/07/cara-setting-huawei-b310s-927-unlock.html)
 - [5 Tips Termudah Agar Diterima Google AdSense](https://www.dani31.eu.org/2022/07/5-tips-termudah-agar-diterima-google.html)
 - [Cara seting interface mikrotik auto restart menggunakan script](https://www.dani31.eu.org/2022/07/cara-seting-interface-mikrotik-auto-restart.html)
-- [Tips Auto Impression Aman Menghindari Invalid Klik](https://www.dani31.eu.org/2022/06/tips-auto-impression-aman-menghindari.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
