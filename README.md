@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create FULL Power Article But Do Not Understand SEO](https://www.dani31.eu.org/2022/07/create-full-power-article-but-do-not-understand-seo.html)
 - [Cara Agar Artikel Cepat Di Index Oleh Google](https://www.dani31.eu.org/2022/07/cara-agar-artikel-cepat-di-index-oleh-google.html)
 - [Berbagai Macam Lisensi Windows dan Jenisnya](https://www.dani31.eu.org/2022/07/berbagai-macam-lisensi-windows-dan.html)
 - [Cara Setting 60 FPS PUBG Mobile di Emulator Gameloop](https://www.dani31.eu.org/2022/07/cara-setting-60-fps-pubg-mobile-di.html)
 - [Dual Boot Windows &amp; Ubuntu Dengan SSD dan HDD](https://www.dani31.eu.org/2022/07/dual-boot-windows-ubuntu-dengan-ssd-dan.html)
-- [Konfigurasi DNS ke Cisco Umbrella](https://www.dani31.eu.org/2022/07/konfigurasi-dns-ke-cisco-umbrella.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
