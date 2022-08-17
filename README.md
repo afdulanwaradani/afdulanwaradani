@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Buka Situs yang Diblokir Tanpa VPN](https://www.dani31.eu.org/2022/08/cara-buka-situs-yang-diblokir-tanpa-vpn.html)
 - [Template Blogger SEO Friendly Gratis](https://www.dani31.eu.org/2022/08/template-blogger-seo-friendly-gratis.html)
 - [Topping By U Game GGWP dan GGWP+](https://www.dani31.eu.org/2022/08/topping-by-u-game-ggwp-dan-ggwp.html)
 - [Tools Backlink Checker Gratis Dari Bing Webmasters](https://www.dani31.eu.org/2022/07/tools-backlink-checker-gratis-dari-bing.html)
 - [Cara Monitoring Uptime Website Mudah](https://www.dani31.eu.org/2022/07/cara-monitoring-uptime-website-mudah.html)
-- [Cara Mengembalikan Icon Windows Defender di Taskbar](https://www.dani31.eu.org/2022/07/cara-mengembalikan-icon-windows-defender.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
