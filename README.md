@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pasang Lazyload Adsense di Blogspot](https://www.dani31.eu.org/2022/08/pasang-lazyload-adsense-di-blogspot.html)
 - [Trik Ampuh Search Akun Google Android Yang Hilang](https://www.dani31.eu.org/2022/08/trik-ampuh-search-akun-google-android.html)
 - [Cara Speedtest di Terminal Linux](https://www.dani31.eu.org/2022/08/cara-speedtest-di-terminal-linux.html)
 - [Cara Buka Situs yang Diblokir Tanpa VPN](https://www.dani31.eu.org/2022/08/cara-buka-situs-yang-diblokir-tanpa-vpn.html)
 - [Template Blogger SEO Friendly Gratis](https://www.dani31.eu.org/2022/08/template-blogger-seo-friendly-gratis.html)
-- [Topping By U Game GGWP dan GGWP+](https://www.dani31.eu.org/2022/08/topping-by-u-game-ggwp-dan-ggwp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
