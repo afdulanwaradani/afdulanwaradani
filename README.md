@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Membuat Bootable Raspberry Pi 4 Mudah](https://www.dani31.eu.org/2022/09/membuat-bootable-raspberry-pi-4-mudah.html)
 - [Backlink Gratis Domain Authority 93 IBM Cloud](https://www.dani31.eu.org/2022/09/backlink-gratis-domain-authority-93-ibm-cloud.html)
 - [Cara Kejar 4000 Jam Youtube Mudah](https://www.dani31.eu.org/2022/08/cara-kejar-4000-jam-youtube-mudah.html)
 - [Pasang Lazyload Adsense di Blogspot](https://www.dani31.eu.org/2022/08/pasang-lazyload-adsense-di-blogspot.html)
 - [Trik Ampuh Search Akun Google Android Yang Hilang](https://www.dani31.eu.org/2022/08/trik-ampuh-search-akun-google-android.html)
-- [Cara Speedtest di Terminal Linux](https://www.dani31.eu.org/2022/08/cara-speedtest-di-terminal-linux.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
