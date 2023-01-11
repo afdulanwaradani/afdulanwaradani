@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mecha Maiden Ruby - SKIN Aspirant Mobile Legends Murah](https://www.dani31.eu.org/2023/01/mecha-maiden-ruby-skin-aspirant-mobile.html)
 - [Cara Menggunakan Google Drive Di Linux](https://www.dani31.eu.org/2022/10/cara-menggunakan-google-drive-di-linux.html)
 - [Cara Ubah Kuota Instagram By.U ke Reguler](https://www.dani31.eu.org/2022/09/cara-ubah-kuota-instagram-byu-ke-reguler.html)
 - [Build Lesley VS Miya Tersakit Mobile Legends](https://www.dani31.eu.org/2022/09/build-lesley-vs-miya-tersakit-mobile-legends.html)
 - [Membuat Bootable Raspberry Pi 4 Mudah](https://www.dani31.eu.org/2022/09/membuat-bootable-raspberry-pi-4-mudah.html)
-- [Backlink Gratis Domain Authority 93 IBM Cloud](https://www.dani31.eu.org/2022/09/backlink-gratis-domain-authority-93-ibm-cloud.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
