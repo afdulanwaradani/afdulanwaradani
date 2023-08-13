@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Menaikkan DA PA Blog dengan Cepat](https://www.dani31.eu.org/2023/08/cara-menaikkan-da-pa-blog-dengan-cepat.html)
 - [Pendapat Oura &amp; Bang Rekt Tentang Game Mobile Legends](https://www.dani31.eu.org/2023/07/pendapat-oura-bang-rekt-tentang-game.html)
 - [Tiktok Lite 2023 Penghasil Uang Langsung Cair](https://www.dani31.eu.org/2023/05/tiktok-lite-2023-penghasil-uang.html)
 - [Mecha Maiden Ruby - SKIN Aspirant Mobile Legends Murah](https://www.dani31.eu.org/2023/01/mecha-maiden-ruby-skin-aspirant-mobile.html)
 - [Cara Menggunakan Google Drive Di Linux](https://www.dani31.eu.org/2022/10/cara-menggunakan-google-drive-di-linux.html)
-- [Cara Ubah Kuota Instagram By.U ke Reguler](https://www.dani31.eu.org/2022/09/cara-ubah-kuota-instagram-byu-ke-reguler.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.dani31.eu.org/)
