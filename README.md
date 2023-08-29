@@ -38,7 +38,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCv8_S6h1sVAX310dEqRpEXQ)
+➡️ [more videos...]([https://www.youtube.com/channel/UCv8_S6h1sVAX310dEqRpEXQ](https://www.youtube.com/@UpxIdGaming))
 
 ---
 
